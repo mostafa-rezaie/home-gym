@@ -1,0 +1,10 @@
+.box svg{
+    position: relative;
+    left: 50%;
+    top: 50%;
+}
+
+.box svg circle{
+    position: relative;
+    margin-right: 3px;
+}
